@@ -1,0 +1,10 @@
+body{
+    background-image: url('./Shwedagon_Pagoda_Temple_on_Myanmar_Country_Wallpaper.jpg') ;
+    background-position:center center;
+    width: auto;
+    height: 100vh;
+    background-size: cover;
+    /* background-size: auto; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
